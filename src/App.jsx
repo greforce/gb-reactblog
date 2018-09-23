@@ -43,8 +43,8 @@ export class App extends Component {
             <Footer />
             <Modal centered isOpen={!this.state.noGreetingModal} toggle={this.handleModalClose}>
               <ModalBody>
-                <p>We greet you at The Blog Place!</p>
-                <p>Here you can start your blog, view other blogger's posts, and even comment!</p>
+                <p>Welcome to The Blog Place!</p>
+                <p>Here you can start your blog, view other blogger's posts, and make comments!</p>
               </ModalBody>
               <ModalFooter>
                 <Button color="primary" onClick={this.handleModalClose}>Got it!</Button>
