@@ -1,0 +1,14 @@
+.page-content {
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-top: 60px;
+  min-height: calc(100vh - 120px);
+
+  .main-content {
+    padding: 20px;
+  }
+
+  .sidebar-widgets {
+    padding: 20px;
+  }
+}
