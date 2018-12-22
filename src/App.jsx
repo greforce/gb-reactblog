@@ -12,6 +12,7 @@ import {
   ModalFooter,
   Button,
 } from 'reactstrap';
+// test
 
 import Content from 'root/Content'; // временное решенеие, надо будет с БД грузить в будущем?
 import store from 'root/store';
